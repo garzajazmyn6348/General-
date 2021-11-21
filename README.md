@@ -1,0 +1,2 @@
+# General-
+_WD_IsLatestRelease: True _WD_IsLatestRelease ==> Success _WD_Startup: OS:    WIN_10 WIN32_NT 18363  _WD_Startup: AutoIt:    3.3.14.5 _WD_Startup: WD.au3:    0.4.1.0 (Up to date) _WD_Startup: WinHTTP:    1.6.4.2 _WD_Startup: Driver:    msedgedriver.exe _WD_Startup: Params:    --verbose --log-path="C:\Autoit\edge\WebDriver-0.4.1.0\msedge.log" _WD_Startup: Port:    9515 _WD_Startup ==> General Error: Error launching web driver!
